@@ -1,8 +1,8 @@
 {
-	"name": "ccjs",
-	"description": "Clear Code Decorator",
+	"name": "az-clean-code-js",
+	"description": "Clean Code Decorator",
 	"version": "0.0.1",
-	"publisher": "corumbaAZ",
+	"publisher": "AlanLucas",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.15.0"

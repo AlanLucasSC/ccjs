@@ -1,4 +1,4 @@
-# Clear Code JS
+# Clean Code JS
 
 Extensão do vscode para verificar se o código está nas normas do clean code.
 Só com quatro regras implementadas.
@@ -9,3 +9,4 @@ Só com quatro regras implementadas.
 * Explicito é melhor que implícito
 
 **Regras retiradas do** [Clean code: Javascript](https://github.com/felipe-augusto/clean-code-javascript)
+**Qualquer problema ou sugestão enviem no github** [Clean Code JS](https://github.com/AlanLucasSC/ccjs/)

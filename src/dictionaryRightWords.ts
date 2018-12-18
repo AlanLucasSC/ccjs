@@ -7,7 +7,8 @@ export const IGNORE_WORDS = [
 	'background',
 	'subscriptions',
 	'workspace',
-	'src'
+	'src',
+	'length'
 ]
 
 export const METHODS_WITH_LESS_THAN_TREE_CHARACTERS = [

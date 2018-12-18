@@ -46,6 +46,12 @@ export function activate(context: vscode.ExtensionContext) {
 			return;
 		}
 
+		let documentLanguage = activeEditor.document.languageId;
+		if(documentLanguage != "javascript"){
+			return;
+		}
+
+
 		const text = activeEditor.document.getText();
 		const rightWords: vscode.DecorationOptions[] = [];
 		const wrongWords: vscode.DecorationOptions[] = [];
