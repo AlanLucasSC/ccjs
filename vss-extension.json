@@ -1,0 +1,18 @@
+{
+    "manifestVersion": 1,
+    "id": "ccjs",
+    "version": "0.1.0",
+    "name": "Alan Lucas Silva de Castro",
+	"publisher": "AlanLucas",
+	"categories": [
+        "Azure Repos"
+    ],
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+	],
+	"contributionTypes": [
+		"Verifica se está no clean code o código"
+	]
+}
